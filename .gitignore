@@ -1,0 +1,9 @@
+.vscode
+build
+dist
+install
+repos
+download
+*.wat
+*.wasm
+*.wast
